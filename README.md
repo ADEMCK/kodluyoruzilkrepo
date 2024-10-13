@@ -1,6 +1,10 @@
 # Kodluyoruz İlk Repo
 
+<<<<<<< HEAD
 ![Hello to my first repo](./repofoto.jpg)
+=======
+![Hello to my first repo] (./repo foto.png)
+>>>>>>> e70def3388fa185ec3ce8b2b1fbf869bcca084e3
 
 Bu repo, Kodluyoruz Front-End Eğitimi kapsamında oluşturduğumuz ilk repo olup, temel bir web sayfası geliştirme projesidir.
 
